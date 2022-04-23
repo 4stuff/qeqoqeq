@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124658267132",
+    "project_id": "okcue-run",
+    "storage_bucket": "okcue-run.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124658267132:android:1e408c1497407c78d43879",
+        "android_client_info": {
+          "package_name": "com.example.okcuerun2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124658267132-n2551ur5sp2hglqljr04beijpomkf5s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB_0mh4V6V0IW5R82jSAtvsebX_-Ds6ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124658267132-n2551ur5sp2hglqljr04beijpomkf5s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
